@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Shoaib Memon<br><br>- 📍 Pune, Maharashtra<br>- 🔭 I’m working as Full Stack Web Developer  @ CashRich<br>- 📚 I'm currently learning Full Stack Java Development</p>
+<p align="left">I'm Shoaib Memon<br><br>- 📍 Pune, Maharashtra<br>- 🔭 I’m working as Full Stack Web Developer Intern @ CashRich<br>- 📚 I'm currently learning Full Stack Java Development</p>
 
 ###
 
