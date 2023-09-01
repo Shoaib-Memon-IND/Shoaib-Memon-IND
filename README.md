@@ -4,11 +4,7 @@
 
 <h2 align="center">Hello Folks 👋</h2>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-# 💫 About Me:
+# 👩‍💻 About Me:
 I'm Shoaib Memon<br><br>- 📍 Pune, Maharashtra<br>- 🔭 An Aspiring Full Stack Web Developer, with proficiency in Development and Deployment on various cloud platforms<br>- 📚 I'm currently learning Full Stack Java Development
 
 
